@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "expense-controller",
+    "slug": "expense-controller",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "test",
+    "scheme": "expense_controller",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
