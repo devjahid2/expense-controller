@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+💰 Expense Controller App
+A simple and intuitive React Native app built with Expo Router to help users track daily expenses and manage due bills efficiently. Designed for personal finance control, the app features a minimal UI, tab-based navigation, and local-first performance.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+✨ Features
+📊 Expense Tracker — Log and categorize daily spending with ease.
 
-## Get started
+📅 Due Bill Manager — Track upcoming payments and pending bills.
 
-1. Install dependencies
+📁 Expo Router Navigation — Clean file-based routing with tabs.
 
-   ```bash
-   npm install
-   ```
+🎨 Custom Tab Bar Icons & Haptics — Enhanced UX with tactile feedback.
 
-2. Start the app
+📱 Responsive UI — Optimized for both Android and iOS.
 
-   ```bash
-   npx expo start
-   ```
+🛡️ Safe Area Support — Seamless UI across devices with notches.
 
-In the output, you'll find options to open the app in a
+🛠 Tech Stack
+React Native
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Expo Router
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+TypeScript
 
-## Get a fresh project
+react-native-safe-area-context
 
-When you're ready, run:
+@expo/vector-icons
 
-```bash
-npm run reset-project
-```
+📦 Coming Soon
+Local storage or SQLite integration
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Data export/reporting features
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Budget insights and analytics
